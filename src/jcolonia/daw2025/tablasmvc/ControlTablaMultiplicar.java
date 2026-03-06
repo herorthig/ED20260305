@@ -1,4 +1,4 @@
-package jcolonia.daw2025.ejemplosut5;
+package jcolonia.daw2025.tablasmvc;
 
 /**
  * Nucleo de aplicación de consola de texto con menús.
